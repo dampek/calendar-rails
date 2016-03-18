@@ -1,0 +1,46 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  border: 1px solid black;
+}
+
+.header .col-md-4 {
+  border: 1px solid black;
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+
+.header .col-md-8 {
+  border: 1px solid black;
+  width: 67%;
+  text-align: right;
+  float: right; 
+}
+
+.header .col-md-8 li {
+  padding: 20px;
+  display: inline-block; 
+}
+
+.main {
+  margin-top: 100px; 
+}
+
+.main .container {
+ 	height: 450px; 
+  background: url();
+}
+
+.footer {
+ 	height: 100px; 
+}
+
+.footer img {
+ 	height: 3%;
+  width: 3%;
+  margin-right: 30px;
+  float: right;
+}
+
